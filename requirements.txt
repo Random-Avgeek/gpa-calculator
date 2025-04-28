@@ -1,0 +1,2 @@
+Flask -> for web-app building
+gunicorn -> for deployment
