@@ -1,2 +1,2 @@
-flask -> for hosting the web app backend on Python
-werkzeug -> for building Srverless Vercel app in Python
+flask
+werkzeug
