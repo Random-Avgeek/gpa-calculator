@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url('/static/Styleimg.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: white;
+}
+
+.container {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 2em;
+    margin: 5% auto;
+    border-radius: 20px;
+    width: 80%;
+    max-width: 600px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
+}
+
+input, select, button {
+    width: 100%;
+    margin: 0.5em 0;
+    padding: 0.8em;
+    border-radius: 10px;
+    border: none;
+    font-size: 1em;
+}
+
+button {
+    background-color: #28a745;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+.gpa-display {
+    text-align: center;
+    margin-top: 1.5em;
+    font-size: 2em;
+    font-weight: bold;
+    color: #00ffff;
+}
